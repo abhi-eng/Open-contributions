@@ -28,7 +28,7 @@
 
 **Error metrics**
 
-> Deep learning topics
+> Deep Learning Topics
 
 **ConvNet**
 
