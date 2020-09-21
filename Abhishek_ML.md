@@ -6,10 +6,6 @@
 
 **Unsupervised Machine Learning**
 
-**Neural Networks**
-
-**OpenCV**
-
 **Regression**
 
 **Classification**
@@ -33,3 +29,11 @@
 **ConvNet**
 
 **Transfer learning**
+
+**Neural Networks**
+
+**OpenCV**
+
+**RNN**
+
+**LSTM**
