@@ -1,4 +1,4 @@
-> Machine Learning Topics
+> ## Machine Learning Topics
 
 **Machine Learning Algorithms**
 
@@ -14,7 +14,7 @@
 
 **Exploratory Data Analysis**
 
-**Data visualization(Seaborn, matplotlib, bokeh, Tableau)
+**Data visualization(Seaborn, matplotlib, bokeh, Tableau)**
 
 **Scikit-learn**
 
@@ -28,7 +28,7 @@
 
 **Error metrics**
 
-> Deep Learning Topics
+> ## Deep Learning Topics
 
 **ConvNet**
 
