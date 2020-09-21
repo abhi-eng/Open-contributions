@@ -14,6 +14,10 @@
 
 **Exploratory Data Analysis**
 
+**Data visualization(Seaborn, matplotlib, bokeh, Tableau)
+
+**Scikit-learn**
+
 **Model Selection**
 
 **Clustering**
